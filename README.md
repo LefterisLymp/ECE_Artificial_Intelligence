@@ -1,1 +1,1 @@
-This repository contains all of the projects used in Athe 7th semester's Artificial Intelligence course.
+This repository contains all of the projects implemented in ECE 7th semester's Artificial Intelligence course.
