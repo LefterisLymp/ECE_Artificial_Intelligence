@@ -1,4 +1,4 @@
-💻 🧠 Artificial Intelligence course projects. ECE 7th semester's projects.<br>
+💻 🧠 Artificial Intelligence course projects. ECE 7th semester course.<br>
 In total, 3 projects were implemented.<br>
 
 In <b>TN2020-P1</b>, search algorithms such as [A*](https://en.wikipedia.org/wiki/A*_search_algorithm) were implemented in order to navigate through mazes.
